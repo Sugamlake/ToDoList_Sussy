@@ -7,3 +7,4 @@ function Todo({todo,index,remove}){
     return <button className="todo btn btn-info btn-lg" onClick={handle}>{todo.text} <span className="badge badge-secondary"> X </span></button>
   }
   
+  

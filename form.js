@@ -21,5 +21,3 @@ function TodoForm({addTodo}){
       </form>
     )
   }
-
-  

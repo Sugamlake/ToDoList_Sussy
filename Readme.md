@@ -1,6 +1,8 @@
 # ToDoList
 
-### Description: I guide you through a solution to the exercise of removing the button in a single line of code
+### Description:
+- Styles were added through bootstrap and css.
+- Changed the Todo to buttons with a badge representing the x to delete or delete each todo.
 
 ### Installation Guidelines: 
 - First clone the project
@@ -8,20 +10,29 @@
 
 ### Screenshots: 
 
-[![Captura-de-Pantalla-2022-07-06-a-la-s-00-00-15.png](https://i.postimg.cc/sDyTgYYw/Captura-de-Pantalla-2022-07-06-a-la-s-00-00-15.png)](https://postimg.cc/vDqrP6SV)
+[![Captura-de-Pantalla-2022-07-06-a-la-s-00-23-03.png](https://i.postimg.cc/0QN1Jg12/Captura-de-Pantalla-2022-07-06-a-la-s-00-23-03.png)](https://postimg.cc/nsNP6PL6)
 
 ### Technology used: 
 - HTML5
 - CSS3
-- Boostrap
 - JavaScript
 
 ### Features: 
 
-- xxxxx
+1.- In this process, we use our own styles, more than anything making a darker background.
+
+2.- Later we add a hover when the mouse is passed to highlight which everything is marked.
+
+3.- An image of close was added, to indicate that by clicking that to do is eliminated.
+
+4.- The Add Todo is also shaded when the mouse is hovered
+
 In the future it could have :
 
-- Other modifications xxxxxxxxxx
+- Other modifications 
+- Could be adjusted to corporate colors
+- It could deliver an alert when it reaches a predetermined cutoff point
+- Can be adjusted to indicate quantities
 
 
 ### MIT License

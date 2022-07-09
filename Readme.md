@@ -15,6 +15,7 @@
 ### Technology used: 
 - HTML5
 - CSS3
+- React
 - JavaScript
 
 ### Features: 
